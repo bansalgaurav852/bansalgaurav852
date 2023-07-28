@@ -15,11 +15,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/gaurav-bansal-b01377187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shabanaspb" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18016160/gaurav-bansal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19634376" height="30" width="40" /></a>
-
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
-
 <p align="left">
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a> 
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a>
@@ -31,11 +28,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwindcss" alt="tailwindcss" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
-
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalgaurav852&show_icons=true&locale=en&layout=compact" alt="bansalgaurav852" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansalgaurav852&show_icons=true&locale=en" alt="bansalgaurav852" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansalgaurav852&" alt="bansalgaurav852" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalgaurav852&show_icons=true&locale=en&layout=compact&theme=dracula" alt="bansalgaurav852" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansalgaurav852&show_icons=true&locale=en&theme=dracula" alt="bansalgaurav852" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansalgaurav852&theme=dracula" alt="bansalgaurav852" /></p>
