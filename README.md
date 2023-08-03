@@ -5,11 +5,13 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left">  </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Ecommerce App**
 
 - 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **bansalgaurav852@gmail.com**
+
+- My Resume [Download](https://drive.google.com/file/d/1Pb9NnZCL0Fwm4SYu2Cuf4U8P_jhihnwL/view) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
