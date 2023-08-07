@@ -1,5 +1,7 @@
-[![MasterHead](https://www.appjetty.com/blog/wp-content/uploads/2021/02/Flutter-App-Development-Basics-and-Benefits-3.png)]()
 
+<p align="center">
+  <img src="https://www.appjetty.com/blog/wp-content/uploads/2021/02/Flutter-App-Development-Basics-and-Benefits-3.png" />
+</p>
 <h1 align="center">Hi 👋, I'm Gaurav Bansal</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **bansalgaurav852@gmail.com**
+- 📫 How to reach me [Email](mailto:bansalgaurav852@gmail.com) 
 
 - My Resume [Download](https://drive.google.com/file/d/1Pb9NnZCL0Fwm4SYu2Cuf4U8P_jhihnwL/view) 
 
@@ -31,6 +33,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalgaurav852&show_icons=true&locale=en&layout=compact&theme=dracula" alt="bansalgaurav852" /></p>
+<p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalgaurav852&show_icons=true&locale=en&layout=compact&theme=dracula" alt="bansalgaurav852" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansalgaurav852&show_icons=true&locale=en&theme=dracula" alt="bansalgaurav852" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansalgaurav852&theme=dracula" alt="bansalgaurav852" /></p>
