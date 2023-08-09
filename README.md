@@ -1,11 +1,12 @@
 
-<p align="center">
+<p align="center" >
   <img src="https://www.appjetty.com/blog/wp-content/uploads/2021/02/Flutter-App-Development-Basics-and-Benefits-3.png" />
 </p>
 <h1 align="center">Hi 👋, I'm Gaurav Bansal</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<p align="left">  </p>
+
+<p align="left">
+<img align="right" alt="Profile" style="border-radius:500px" width="250" src="https://avatars.githubusercontent.com/u/94746049?s=400&u=f9f7ab6ca85ee912bfd96f7e79421eb6a87e4252&v=4"></p>
 
 - 🔭 I’m currently working on **Ecommerce App**
 
@@ -35,4 +36,3 @@
 </p>
 <p ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bansalgaurav852&show_icons=true&locale=en&layout=compact&theme=dracula" alt="bansalgaurav852" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansalgaurav852&show_icons=true&locale=en&theme=dracula" alt="bansalgaurav852" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansalgaurav852&theme=dracula" alt="bansalgaurav852" /></p>
