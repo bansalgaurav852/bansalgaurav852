@@ -14,7 +14,7 @@
 
 - 📫 How to reach me [Email](mailto:bansalgaurav852@gmail.com) 
 
-- My Resume [Download](https://drive.google.com/file/d/1Pb9NnZCL0Fwm4SYu2Cuf4U8P_jhihnwL/view) 
+- My Resume [Download](https://drive.google.com/file/d/1Ebg17a5ICnkN-ze9tCQOH6s4I05oWrIu/view) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
